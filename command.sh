@@ -17,3 +17,4 @@ else
 	sudo apt install $command -y
 fi
 
+#this is for checking pusrpose in gitfile
